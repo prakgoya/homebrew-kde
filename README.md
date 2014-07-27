@@ -1,4 +1,4 @@
-Alexander Dymo's Homebrew
+Prakhar Goyal's Homebrew (courtesy https://github.com/adymo/homebrew-kde)
 =========================
 Homebrew tap to build KDE apps on Mac OS. Based on https://github.com/somekool/homebrew but actually works. Note, this is not a full KDE distribution. It contains only KDE apps that this project's maintainers actually use.
 
