@@ -25,7 +25,7 @@ export XDG_DATA_DIRS=/usr/local/kde4/share:/usr/local/share:/usr/share
 
 Tap my KDE repository:
 
-`brew tap adymo/kde`
+`brew tap prakgoya/kde`
 
 Compile Qt with D-Bus and Qt3 support. KDE will not work without that.
 
